@@ -1,7 +1,7 @@
 This is a website which was put on for purpose to share our materials for the tutorial Tutorial on Anomaly Detection at 3rd ICFA Beam Dynamics Mini-Workshop on Machine Learning Applications for Particle Accelerators (https://www.bnl.gov/mlaworkshop2022/)
 
 ## Tutorial: Anomaly Detection
-[(pdf slides)](https://github.com/sulcantonin/ICFA-Beam-2022/blob/main/Tutorial.pdf)
+[(pdf slides)](https://github.com/sulcantonin/ICFA-Beam-2022/blob/main/ICFA_Tutorial.pdf)
 
 [(ipynb basics)](https://github.com/sulcantonin/ICFA-Beam-2022/blob/main/basics.ipynb) 
 [(ipynb autoencoder)](https://github.com/sulcantonin/ICFA-Beam-2022/blob/main/autoencoder.ipynb) 
