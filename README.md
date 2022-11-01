@@ -16,6 +16,8 @@ This is a website which was put on for purpose to share our materials for the tu
 
 If you do not want to install Jupyter or run e.g. Google Colab, you can simply execute the notebook via (https://mybinder.org/).
 
+Or you can use following link which was prepared for us https://www.sirepo.com/jupyterhublogin
+
 ## Talk: Status of Data-Driven Beam Trajectory Anomaly Detection at European XFEL
 [(pdf talk slides)](https://github.com/sulcantonin/ICFA-Beam-2022/blob/main/ICFA_Presentation.pdf)
 
