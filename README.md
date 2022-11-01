@@ -9,7 +9,8 @@ This is a website which was put on for purpose to share our materials for the tu
 
 [(ipynb basics)](https://github.com/sulcantonin/ICFA-Beam-2022/blob/main/basics.ipynb) 
 [(ipynb autoencoder)](https://github.com/sulcantonin/ICFA-Beam-2022/blob/main/autoencoder.ipynb) 
-[(ipynb one class loss)](https://github.com/sulcantonin/ICFA-Beam-2022/blob/main/oneclass.ipynb) 
+[(ipynb one class loss)](https://github.com/sulcantonin/ICFA-Beam-2022/blob/main/oneclass.ipynb)
+[(ipynb bce)](https://github.com/sulcantonin/ICFA-Beam-2022/blob/main/bce.ipynb)
 [(ipynb semi-supervised anomaly loss)](https://github.com/sulcantonin/ICFA-Beam-2022/blob/main/sal.ipynb) 
 [(ipynb anogan)](https://github.com/sulcantonin/ICFA-Beam-2022/blob/main/gan.ipynb)
 
